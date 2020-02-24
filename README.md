@@ -3,3 +3,4 @@
 
 
 <a href='https://github.com/1d8/school-notes/blob/master/chapter4soc.pdf'>Chapter 4 - Measurs of variability</a>
+            <a href ='https://github.com/1d8/school-notes/blob/master/chapter4-slides.pdf'> Chapter 4 Slides</a>
