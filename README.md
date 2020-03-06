@@ -12,4 +12,4 @@
 
 <a href='https://github.com/1d8/school-notes/blob/master/The%20Normal%20Distribution-slides-2.pdf'>Chapter 5 - Normal Distribution</a>
 
-<a href='https://github.com/1d8/school-notes/blob/master/ch5.py'>Calculating z scores</a>
+<a href='https://github.com/1d8/school-notes/blob/master/ch5.py'>--Calculating z scores</a>
