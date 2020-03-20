@@ -20,3 +20,10 @@
 <a href='https://github.com/1d8/school-notes/blob/master/ch6-samplingNsamplingdistributions.pdf'>Chapter 6 - Sampling & Sampling Distributions</a>
 
 <a href ='https://github.com/1d8/school-notes/blob/master/ch6-samplingNsamplingdistributions.pdf'>--Chapter 6 Slides</a>
+
+
+<a href='https://github.com/1d8/school-notes/blob/master/ch7-estimations.pdf'>Chapter 7 - Estimations</a>
+
+<a href='slides'>--Chapter 7 slides</a>
+
+<a href='https://github.com/1d8/school-notes/blob/master/ch7-estimations.pdf'>--Chapter 7 notes</a>
