@@ -27,3 +27,10 @@
 <a href='https://github.com/1d8/school-notes/blob/master/Estimation.pdf'>--Chapter 7 slides</a>
 
 <a href='https://github.com/1d8/school-notes/blob/master/ch7-estimations.pdf'>--Chapter 7 notes</a>
+
+
+<a href='https://github.com/1d8/school-notes/blob/master/ch8-slides.pdf'>Chapter 8 - Hypothesis Testing</a>
+
+<a href 'https://github.com/1d8/school-notes/blob/master/ch8-slides.pdf'>--Chapter 8 slides</a>
+
+<a href =[note link]>--Chapter 8 notes</a>
