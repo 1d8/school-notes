@@ -31,9 +31,9 @@
 
 <a href='https://github.com/1d8/school-notes/blob/master/ch8-slides.pdf'>Chapter 8 - Hypothesis Testing</a>
 
-<a href 'https://github.com/1d8/school-notes/blob/master/ch8-slides.pdf'>--Chapter 8 slides</a>
+<a href='https://github.com/1d8/school-notes/blob/master/ch8-slides.pdf'>--Chapter 8 slides</a>
 
-<a href = 'https://github.com/1d8/school-notes/blob/master/Ch8hypothesis-testing.pdf'>--Chapter 8 notes</a>
+<a href='https://github.com/1d8/school-notes/blob/master/Ch8hypothesis-testing.pdf'>--Chapter 8 notes</a>
 
 
 <a href=[slide-notes]>Chapter 9</a>
