@@ -37,3 +37,15 @@
 
 
 <a href=[slide-notes]>Chapter 9</a>
+
+
+<a href=https://github.com/1d8/school-notes/blob/master/ch11_slides.pdf>Chapter 11 slides</a>
+
+<a href=https://github.com/1d8/school-notes/blob/master/ch11.pdf>Chapter 11 notes</a>
+
+
+<a href=https://github.com/1d8/school-notes/blob/master/ch12_notes.pdf>Chapter 12 notes</a>
+
+<a href=https://github.com/1d8/school-notes/blob/master/ch12_slides.pdf>Chapter 12 slides</a>
+
+<a href=https://github.com/1d8/school-notes/blob/master/covariance.py>Code to find variance + covariance (ch12)</a>
