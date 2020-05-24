@@ -34,6 +34,8 @@ print(z)
 ## Covariance
 multiplied_num = []
 #Make sure to comment out the deviation**2 parts of the code above if you're attempting to find the covariance
+# Change the range int according to the length of the X & Y values, this will iterate through the multiplication part 
+# of the equation 25 times in order to multiply every number, then it adds them to the Z variable
 #for i in range(25):
 #	number = x_deviation[i] * y_deviation[i]
 #	multiplied_num.append(number)
